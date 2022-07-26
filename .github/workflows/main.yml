@@ -31,6 +31,6 @@ jobs:
       - name: Sql-Lint
         uses:  Bidaya0/sql-lint-in-action@v0.0.2
         with:
-          path: test/test.sql
+          path: ./test.sql
         
     
