@@ -1,1 +1,1 @@
-select;
+delete tables;
